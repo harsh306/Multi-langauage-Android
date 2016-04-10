@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.harsh.mobileaxis.MainActivity">
+    <item android:id="@+id/en"
+        android:title="@string/en"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/hi"
+        android:orderInCategory="100"
+        android:title="@string/hi"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/bn"
+        android:orderInCategory="100"
+        android:title="@string/Bn"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/gu"
+        android:orderInCategory="100"
+        android:title="@string/gu"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mr"
+        android:orderInCategory="100"
+        android:title="@string/mr"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/pa"
+        android:orderInCategory="100"
+        android:title="@string/pa"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ta"
+        android:orderInCategory="100"
+        android:title="@string/ta"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/zh"
+        android:orderInCategory="100"
+        android:title="@string/zh"
+        app:showAsAction="never"/>
+
+</menu>

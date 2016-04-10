@@ -1,0 +1,38 @@
+
+<resources>
+    
+<string name="app_name">आवेदन</string>
+
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+    <string name="pa">ਪੰਜਾਬੀ ਦੇ</string>
+    <string name="ta">தமிழ்</string>
+<string name="Welcome">स्व|गत हे</string>
+    
+<string name="india">इंडिय|</string>
+    
+<string name="axis">एक्सिस</string>
+    
+<string name="bank">बैंक</string>
+    
+<string name="money">पैसे</string>
+    
+<string name="login">लॉगिन</string>
+    
+<string name="username">ल|गिन</string>
+    
+<string name="password">ल|गिन</string>
+    
+<string name="Transaction">लेनदेन</string>
+    
+<string name="monthly">म|सिक</string>
+    
+<string name="finish">सम|प्त</string>
+    
+<string name="safe">सुरक्षित बैंकिंग</string>
+
+</resources>

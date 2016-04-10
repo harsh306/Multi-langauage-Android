@@ -1,0 +1,53 @@
+
+
+<resources>
+
+
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+    <string name="pa">ਪੰਜਾਬੀ ਦੇ</string>
+    <string name="ta">தமிழ்</string>
+    
+
+<string name="Welcome">ਸੁਆਗਤ ਹੈ</string>
+    
+
+<string name="india">ਭਾਰਤ ਨੂੰ</string>
+    
+
+<string name="axis">ਐਕਸਿਸ</string>
+    
+
+<string name="bank">ਬਕ</string>
+    
+
+<string name="money">ਪੈਸੇ ਦੀ</string>
+    
+
+<string name="login">ਲਾਗਿਨ</string>
+    
+
+<string name="username">ਯੂਜ਼ਰ</string>
+    
+
+<string name="password">ਪਾਸਵਰਡ</string>
+    
+
+<string name="Transaction">ਸੰਚਾਰ</string>
+    
+
+<string name="monthly">ਮਾਸਿਕ</string>
+    
+
+<string name="finish">ਮੁਕੰਮਲ</string>
+    
+
+<string name="safe">ਸੁਰੱਖਿਅਤ ਬੈਕਿੰਗ</string>
+
+
+
+</resources>

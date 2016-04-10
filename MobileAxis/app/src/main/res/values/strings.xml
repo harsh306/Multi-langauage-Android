@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileAxis</string>
+    <string name="action_settings">Settings</string>
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+    <string name="pa">ਪੰਜਾਬੀ ਦੇ</string>
+    <string name="ta">தமிழ்</string>
+</resources>

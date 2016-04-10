@@ -1,0 +1,77 @@
+
+
+
+
+
+<resources>
+    
+
+
+
+
+<string name="app_name">应用</string>
+
+
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+<string name="Welcome">欢迎</string>
+
+<string name="india">印度</string>
+<string name="axis">轴</string>
+
+<string name="bank">银行</string>
+    
+
+<string name="money">钱</string>
+    
+
+
+
+
+<string name="login">登录</string>
+    
+
+
+
+
+<string name="username">登录</string>
+    
+
+
+
+
+<string name="password">登录</string>
+    
+
+
+
+
+<string name="Transaction">交易</string>
+    
+
+
+
+
+<string name="monthly">每月一次</string>
+    
+
+
+
+
+<string name="finish">完</string>
+    
+
+
+
+
+<string name="safe">安全银行</string>
+
+
+
+
+
+</resources>

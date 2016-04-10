@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+    <string name="pa">ਪੰਜਾਬੀ ਦੇ</string>
+    <string name="ta">தமிழ்</string>
+    <string name="Welcome">Welcome</string>
+    <string name="india">India</string>
+    <string name="axis">Axis</string>
+    <string name="bank">Bank</string>
+    <string name="money">money</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Transaction">Transaction</string>
+    <string name="monthly">monthly</string>
+    <string name="finish">Finish</string>
+    <string name="safe">Safe Banking</string>
+</resources>

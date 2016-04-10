@@ -1,0 +1,38 @@
+
+<resources>
+
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+    <string name="pa">ਪੰਜਾਬੀ ਦੇ</string>
+    <string name="ta">தமிழ்</string>
+    
+<string name="Welcome">வரவேற்கிறோம்</string>
+    
+<string name="india">இந்தியா</string>
+    
+<string name="axis">அச்சு</string>
+    
+<string name="bank">வங்கி</string>
+    
+<string name="money">பணம்</string>
+    
+<string name="login">உள் நுழை</string>
+    
+<string name="username">பயனர்பெயர்</string>
+    
+<string name="password">கடவுச்சொல்</string>
+    
+<string name="Transaction">பரிவர்த்தனை</string>
+    
+<string name="monthly">மாதாந்திர</string>
+    
+<string name="finish">பினிஷ்</string>
+    
+<string name="safe">பாதுகாப்பான வங்கி</string>
+
+
+</resources>

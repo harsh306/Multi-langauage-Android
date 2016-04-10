@@ -1,0 +1,68 @@
+
+
+
+<resources>
+    
+
+
+<string name="app_name">એપ્લિકેશન</string>
+
+
+    <string name="en">English</string>
+    <string name="hi">हिंदी</string>
+    <string name="Bn">বাঙালি</string>
+    <string name="mr">मराठी</string>
+    <string name="gu">ગુજરાતી</string>
+    <string name="zh">中文</string>
+    <string name="pa">ਪੰਜਾਬੀ ਦੇ</string>
+    <string name="ta">தமிழ்</string>
+
+<string name="Welcome">આપનું સ્વાગત છે</string>
+    
+
+
+<string name="india">ભારત</string>
+    
+
+
+<string name="axis">એક્સિસ</string>
+    
+
+
+<string name="bank">બેન્ક</string>
+    
+
+
+<string name="money">પૈસા</string>
+    
+
+
+<string name="login">પ્રવેશ</string>
+    
+
+
+<string name="username">પ્રવેશ</string>
+    
+
+
+<string name="password">પ્રવેશ</string>
+    
+
+
+<string name="Transaction">ટ્રાન્ઝેક્શન</string>
+    
+
+
+<string name="monthly">માસિક</string>
+    
+
+
+<string name="finish">સમાપ્ત</string>
+    
+
+
+<string name="safe">સેફ બેન્કિંગ</string>
+
+
+
+</resources>
